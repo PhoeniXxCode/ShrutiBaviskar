@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShrutiBaviskar
--  😎 first year computer science student😎|
-- 📚aspring forensic engineer📚|
-- 👩‍💻 passionate about coding👩‍💻              and   ✏️sketching✏️
+     👋 Hi, I’m @ShrutiBaviskar
+-  😎 First year computer science student😎|
+- 📚 Aspring forensic engineer📚|
+- 👩‍💻 Passionate about coding👩‍💻              and   ✏️sketching✏️
   
 
 <!---
